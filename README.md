@@ -1,3 +1,5 @@
 # picture_resource
 
-Blog's picture resource
+My Blog's resource
+
+https://mundi-xu.github.io/
